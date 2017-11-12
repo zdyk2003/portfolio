@@ -16,9 +16,13 @@ $(document).ready(function(){
 	$("#gif").on("click", function() {
 		window.location = "https://zdyk2003.github.io/Gif-Tastic/";
 	});
-// eat-da-burger link
+// friend finder link
 	$("#friend-finder").on("click", function() {
 		window.location = "https://arcane-island-60887.herokuapp.com/";
+	});
+// slpm webpage link
+	$("#slpm").on("click", function() {
+		window.location = "https://zdyk2003.github.io/slpmWebpage/";
 	});
 
 

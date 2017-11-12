@@ -217,7 +217,7 @@ input[type=submit] {
 	font-size: 24px;	
 }
 
-.rpg{
+.burger{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
@@ -245,7 +245,7 @@ input[type=submit] {
 	font-size: 24px;	
 }
 
-.rutgers{
+.gif{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
@@ -259,12 +259,26 @@ input[type=submit] {
 	font-size: 22px;	
 }
 
-.rock{
+.friend{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
 	margin-top: 831px;
 	margin-left: 20px;
+	position: absolute;
+	padding: 10px;
+	width: 260px;
+	text-align: center;
+	font-family:font-family: 'Georgia', Times, Times New Roman, serif;;
+	font-size: 22px;	
+}
+
+.slpm{
+	background-color: #4aaaa5;
+	color: #ffffff;
+	float: left;
+	margin-top: 831px;
+	margin-left: 320px;
 	position: absolute;
 	padding: 10px;
 	width: 260px;
