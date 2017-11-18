@@ -201,6 +201,7 @@ input[type=submit] {
 	padding: 20px;
 	float: left;
 	position: relative;
+	cursor: pointer;
 }
 
 .hangman{
